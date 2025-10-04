@@ -51,7 +51,7 @@ class Repository:
 
     def create_branch(self, branch_name):
         if branch_name not in self.branches:
-            self.branches[branch_name] = list(self.files)  # copy files from mai
+            self.branches[branch_name] = list(self.files)  # copy files from main
             print(f"🌿 Branch '{branch_name}' created.")
         else:
             print(f"⚠️ Branch '{branch_name}' already exists.")
