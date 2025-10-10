@@ -6,7 +6,7 @@ This version supports:
 - repository creation
 - adding and removing files
 - searching files
-- updating description
+- updating descriptio
 - creating branches
 - making commits
 - showing commit history
