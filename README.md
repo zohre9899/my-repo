@@ -5,7 +5,7 @@ A simulation of a GitHub-like repository system.
 This version supports:
 - repository creation
 - adding and removing files
-- searching file
+- searching files
 - updating description
 - creating branches
 - making commits
