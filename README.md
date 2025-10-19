@@ -108,7 +108,7 @@ def main():
     repo.add_file("utils.py")
     repo.add_file("README.md")
 
-    # Commit changes
+    # Commit change
     repo.commit("Initial commit with basic files")
 
     # Create new branch
