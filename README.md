@@ -1,5 +1,5 @@
 """
-GitHub Repository Manage
+GitHub Repository Manager
 -------------------------
 A simulation of a GitHub-like repository system.
 This version supports:
