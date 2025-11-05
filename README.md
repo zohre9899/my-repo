@@ -17,7 +17,7 @@ import datetime
 
 class Repository:
     def __init__(self, name, description, language="Python"):
-        self.name = name
+        self.name = nam
         self.description = description
         self.language = language
         self.files = []
