@@ -8,7 +8,7 @@ This version supports:
 - searching files
 - updating description
 - creating branches
-- making commit
+- making commits
 - showing commit histo
 """
 
