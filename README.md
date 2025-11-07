@@ -12,7 +12,7 @@ This version supports:
 - showing commit histo
 """
 
-import datetime
+import datetim
 
 
 class Repository:
