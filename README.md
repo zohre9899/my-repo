@@ -9,7 +9,7 @@ This version supports:
 - updating description
 - creating branches
 - making commits
-- showing commit hist
+- showing commit histo
 """
 
 import datetime
