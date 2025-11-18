@@ -7,7 +7,7 @@ This version supports:
 - adding and removing files
 - searching files
 - updating description
-- creating branche
+- creating branches
 - making commits
 - showing commit histo
 """
