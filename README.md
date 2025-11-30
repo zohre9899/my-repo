@@ -1,7 +1,7 @@
 """
 GitHub Repository Manager
 -------------------------
-A simulation of a GitHub-like repository system.
+A simulation of a GitHub-like repository system..
 This version supports:
 - repository creation
 - adding and removing files
